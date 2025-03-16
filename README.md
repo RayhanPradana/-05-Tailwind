@@ -9,11 +9,11 @@
 ## Praktikum
 KODE
 
-![Screenshot](public\images\kodeproyek.png)
+![Screenshot](public/images/kodeproyek.png)
 
 # Hasil dari Praktikum
 
-![Screenshot](public\images\proyek.png)
+![Screenshot](public/images/proyek.png)
 
 ## Tugas
 
@@ -21,22 +21,22 @@ KODE
 
 KODE
 
-![Screenshot](public\images\kodeesai.png)
+![Screenshot](public/images/kodeesai.png)
 
 
 HASIL
 
-![Screenshot](public\images\esai.png)
+![Screenshot](public/images/esai.png)
 
 # 2. Modifikasi halaman “Tentang Saya” Buat tampilan yang menarik  
 
 KODE
 
-![Screenshot](public\images\kodetentang.png)
+![Screenshot](public/images/kodetentang.png)
 
 HASIL
 
-![Screenshot](public\images\tentang.png)
+![Screenshot](public/images/tentang.png)
 
 
 
